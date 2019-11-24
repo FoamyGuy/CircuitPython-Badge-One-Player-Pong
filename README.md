@@ -1,4 +1,4 @@
-# CircuitPython-Badge-2-Player-Pong-Game
+# CircuitPython-Badge-One-Player-Pong-Game
 
 This is a simple example game. It's like the classic pong. The player uses the up and down buttons on the d-pad to control the left paddle. The computer plays the right paddle.
 
