@@ -9,7 +9,7 @@ This example has been tested and is known to work on the [Adafruit EdgeBadge](ht
 The game is broken into two files: 
 
  - code.py - Contains the main loop, screen setup, and manages high-level game object update function calls.
- - pong_helpsers.py - contains helper objects for the game elements. code.py imports, creates, and calls update() on these objects at the appropriate time. The update() functions that are defined in this file control the behavior of the three types of game elements, manual paddles, auto paddles, and balls. The left paddl in this variant of the game is controlled by the up and down buttons on the d-pad. The right paddle is controlled automatically by an algorith in the update() function. It tries to keep it's center aligned vertically with the ball. The ball moves automatically and changes direction when it collides with a paddle.
+ - pong_helpsers.py - contains helper objects for the game elements. code.py imports, creates, and calls update() on these objects at the appropriate time. The update() functions that are defined in this file control the behavior of the three types of game elements, manual paddles, auto paddles, and balls. The left paddl in this variant of the game is controlled by the up and down buttons on the d-pad. The right paddle is controlled automatically by an algorithm in the update() function. It tries to keep it's center aligned vertically with the ball. The ball moves automatically and changes direction when it collides with a paddle.
  
 I have done my best to thoroughly comment both python files. Intention is that these scripts are basic enough for beginners to use to learn about building games with CircuitPython.
 
