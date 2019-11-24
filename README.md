@@ -28,3 +28,6 @@ If you are trying to practice programming games with CircuitPython here are a fe
  - Change the behavior of ball colliding with paddle in motion to allow for a steeper angle.
  - Change the behavior of the computer controlled paddle. Try to make it easier to beat.
  - Change the behavior of the computer controlled paddle. Try to make it attempt to collide with the ball in motion more often.
+
+ # Quick Sample Video of Gameplay:
+[![Youtube Video Link](https://github.com/FoamyGuy/CircuitPython-Badge-Reverse-Pong-Game/blob/master/yt_thumb.png?raw=true)](https://youtu.be/sx11VAmQXmI)
